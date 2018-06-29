@@ -10,4 +10,8 @@
 <li> Double click on the mouse button to set the cell to blank fill</li>
 <li>You can click on the "reset" button to clear the entire setup</li>.
 </ul>
+
 Preview example:
+https://github.com/franklyn1221/my-Pixel-Art-Maker-/blob/master/Screenshot-2018-6-29%20Pixel%20Art%20Maker%20.png
+
+Thank you
